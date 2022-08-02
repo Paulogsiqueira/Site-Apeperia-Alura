@@ -3,7 +3,7 @@ Projeto de um site o qual desenvolve aplicativos sob medida e oferece opção de
 <br>
 <br>
 <h2> Tecnologia Usada <h2>
-- Html
+- Html <br>
 - Css
 
 <h2> Link do Projeto <h2>
